@@ -1,7 +1,0 @@
-The scope of this project is to design and develop a simple Personal Contact Management System called SmartContacts that allows users to store and manage their contact information through a clean and easy-to-use web interface. 
-The system will provide core features such as adding, viewing, editing, searching, and deleting contacts. 
-Each contact entry will include fields like name, phone number, email, and optional notes or tags.
-This project will be developed using Flask/Python with SQLite and will follow the MVC architecture to keep the interface, logic, and data layers organized. 
-The target environment is a standard university setup, meaning the system should run smoothly on typical lab computers and modern web browsers like Chrome or Firefox.
-Since this is an academic project, the scale will remain manageable and focused on core functionality rather than advanced features like user accounts, cloud syncing, or mobile app deployment. 
-However, the system should still demonstrate proper software engineering practices, including clean code structure, basic validation, and a responsive interface suitable for student users who want a lightweight and efficient way to organize their personal contacts.
